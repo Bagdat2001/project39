@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996635798076",
+    "project_id": "asbolsyn-fd16a",
+    "storage_bucket": "asbolsyn-fd16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996635798076:android:5b7609542ff60469d0b139",
+        "android_client_info": {
+          "package_name": "com.example.project39"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996635798076-i5m5mno5bnqbuq2i67b2e6as01acvnf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxERXR44fAY_-kzYsAlOCU6KZFCcd5ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996635798076-i5m5mno5bnqbuq2i67b2e6as01acvnf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
